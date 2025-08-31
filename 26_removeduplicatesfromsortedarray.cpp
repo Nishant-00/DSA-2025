@@ -35,7 +35,7 @@ int removeDuplicates(vector<int>&arr, int n){
     }
     return count;
 }
-
+//////////////////////////////////////////////// 
 int main(){
     int n;
     cin>>n;
